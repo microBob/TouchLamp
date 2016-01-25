@@ -1,0 +1,9 @@
+#define ph A5
+#define oo A4
+#define flo A3
+#define li A0
+#define five 9
+#define four 3
+#define three 10
+#define two 5
+#define one 11
