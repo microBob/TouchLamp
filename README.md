@@ -11,3 +11,4 @@ The center button [digitally] turns on and off all LEDs at the same time.
 The right button launches a application/program that makes the three center LEDs change their brightness according to the brightness.
 
 # URL to TouchLamp Demo
+https://youtu.be/igqsrZ-4jY0
